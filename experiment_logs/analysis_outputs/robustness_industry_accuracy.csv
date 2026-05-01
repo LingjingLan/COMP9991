@@ -1,0 +1,23 @@
+﻿industry,method,ablation,n,acc_status,acc_value,acc_page
+Consumer Goods,M0,,41,90.24,97.56,87.8
+Consumer Goods,M1,A0,123,95.12,98.37,95.12
+Extractives & Minerals Processing,M0,,33,81.82,87.88,72.73
+Extractives & Minerals Processing,M1,A0,132,81.82,87.12,80.3
+Financials,M0,,55,96.36,100.0,81.82
+Financials,M1,A0,110,98.18,100.0,92.73
+Food & Beverage,M0,,106,84.91,85.85,77.36
+Food & Beverage,M1,A0,285,81.75,80.7,79.65
+Health Care,M0,,114,91.23,94.74,84.21
+Health Care,M1,A0,342,95.91,99.71,93.86
+Infrastructure,M0,,50,90.0,98.0,90.0
+Infrastructure,M1,A0,150,94.67,100.0,94.67
+Renewable Resources & Alternative Energy,M0,,72,81.94,90.28,69.44
+Renewable Resources & Alternative Energy,M1,A0,171,86.55,95.91,85.96
+Resource Transformation,M0,,53,77.36,86.79,50.94
+Resource Transformation,M1,A0,123,81.3,82.11,73.98
+Services,M0,,44,97.73,100.0,97.73
+Services,M1,A0,88,98.86,100.0,98.86
+Technology & Communications,M0,,60,88.33,95.0,83.33
+Technology & Communications,M1,A0,120,95.83,100.0,96.67
+Transportation,M0,,67,86.57,88.06,59.7
+Transportation,M1,A0,134,88.06,87.31,84.33

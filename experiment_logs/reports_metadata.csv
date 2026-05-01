@@ -1,0 +1,223 @@
+﻿report_id,company_name,industry,sub_industry,scope_key,total_pages,method,ablation,total_process_runtime_seconds,total_tokens,model
+1d223dc1-ae3e-4c78-83e0-0a1329e528e0,bmw esg 2024,Transportation,Automobiles,Automobiles,19,M1,A0,164.8940677719993,46794,gpt-5.2-2025-12-11
+1d223dc1-ae3e-4c78-83e0-0a1329e528e0,20260331_062235_1d223dc1-ae3e-4c78-83e0-0a1329e528e0,Transportation,Automobiles,Automobiles,19,M0,,150.5065000880004,194404,gpt-5.2-2025-12-11
+897a33de-edbe-45aa-a425-31297df747c4,QAN_2024_Sustainability_Report,Transportation,Airlines,Airlines,92,M1,A0,1198.502064563998,60325,gpt-5.2-2025-12-11
+897a33de-edbe-45aa-a425-31297df747c4,20260331_064225_897a33de-edbe-45aa-a425-31297df747c4,Transportation,Airlines,Airlines,92,M0,,237.9769406259984,1261161,gpt-5.2-2025-12-11
+307280f5-f615-4b1a-ae47-c0f04eb55bf6,maersk-sustainability-report-2023,Transportation,Marine Transportation,Marine Transportation,65,M1,A0,1539.3292417479988,231467,gpt-5.2-2025-12-11
+307280f5-f615-4b1a-ae47-c0f04eb55bf6,20260331_074332_307280f5-f615-4b1a-ae47-c0f04eb55bf6,Transportation,Marine Transportation,Marine Transportation,65,M0,,358.510213937001,2951076,gpt-5.2-2025-12-11
+848186d8-7a5e-42ce-b587-698c5e71533f,Apple_Environmental_Progress_Report_2025,Technology & Communications,Hardware,Hardware,126,M1,A0,215.92928536600084,35138,gpt-5.2-2025-12-11
+848186d8-7a5e-42ce-b587-698c5e71533f,20260331_092721_848186d8-7a5e-42ce-b587-698c5e71533f,Technology & Communications,Hardware,Hardware,126,M0,,160.00775107200025,994944,gpt-5.2-2025-12-11
+f25a601b-2967-4668-8345-15d9e7555cab,2025-Microsoft-Environmental-Sustainability-Report-PDF,Technology & Communications,Software & IT Services,Software & IT Services,90,M1,A0,310.15502251600265,94895,gpt-5.2-2025-12-11
+f25a601b-2967-4668-8345-15d9e7555cab,20260331_101832_f25a601b-2967-4668-8345-15d9e7555cab,Technology & Communications,Software & IT Services,Software & IT Services,90,M0,,340.995419840001,1839292,gpt-5.2-2025-12-11
+85a058fe-f0c4-492c-a0c0-7a2bbcae74d7,accenture-environmental-metrics-report-2025,Services,Professional & Commercial Services,Professional & Commercial Services,16,M1,A0,219.56396241400216,60433,gpt-5.2-2025-12-11
+85a058fe-f0c4-492c-a0c0-7a2bbcae74d7,20260331_113424_85a058fe-f0c4-492c-a0c0-7a2bbcae74d7,Services,Professional & Commercial Services,Professional & Commercial Services,16,M0,,132.8060738819986,211849,gpt-5.2-2025-12-11
+0a14ecd9-9f0f-4ff3-80e1-19cca1198a7e,FY2025-Environmental-Performance-Summary,Services,Professional & Commercial Services,Professional & Commercial Services,28,M1,A0,672.9097947110001,74498,gpt-5.2-2025-12-11
+0a14ecd9-9f0f-4ff3-80e1-19cca1198a7e,20260331_233622_0a14ecd9-9f0f-4ff3-80e1-19cca1198a7e,Services,Professional & Commercial Services,Professional & Commercial Services,28,M0,,137.9617813289999,505256,gpt-5.2-2025-12-11
+db6ecf05-1269-4e92-9b3b-eb2f2baad9e0,delltechnologies-fy24-esg-report,Technology & Communications,Hardware,Hardware,116,M1,A0,396.46662768300007,50645,gpt-5.2-2025-12-11
+db6ecf05-1269-4e92-9b3b-eb2f2baad9e0,20260401_000122_db6ecf05-1269-4e92-9b3b-eb2f2baad9e0,Technology & Communications,Hardware,Hardware,116,M0,,131.97899903500002,1118116,gpt-5.2-2025-12-11
+f23f7eb1-1f50-4558-b917-a2eed5198550,2024-sustainability-report-lundin-mining,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,87,M1,A0,665.829048197,198549,gpt-5.2-2025-12-11
+f23f7eb1-1f50-4558-b917-a2eed5198550,20260402_023847_f23f7eb1-1f50-4558-b917-a2eed5198550,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,87,M0,,663.4447712450001,4876158,gpt-5.2-2025-12-11
+106c05b9-8088-4a05-b281-694c146c91d0,newmont-2024-sustainability-report,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,112,M1,A0,959.5445038699995,204402,gpt-5.2-2025-12-11
+106c05b9-8088-4a05-b281-694c146c91d0,20260402_031959_106c05b9-8088-4a05-b281-694c146c91d0,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,112,M0,,908.5930184680019,5243630,gpt-5.2-2025-12-11
+67c29e71-5024-4a1c-9452-d44fba2f6ce0,Allianz-SE-Sustainability-Report-2024-short-version,Financials,Insurance,Insurance,28,M1,A0,200.29853650899895,71957,gpt-5.2-2025-12-11
+0f329818-5c69-4f81-9dc2-a31415212f86,MCG esg 2024,Financials,Investment Banking & Brokerage,Investment Banking & Brokerage,21,M1,A0,777.4888095030001,99706,gpt-5.2-2025-12-11
+67c29e71-5024-4a1c-9452-d44fba2f6ce0,20260402_061941_67c29e71-5024-4a1c-9452-d44fba2f6ce0,Financials,Insurance,Insurance,28,M0,,204.02608310100004,298917,gpt-5.2-2025-12-11
+01973963-c558-4fee-8571-257caa21c8b1,20260402_062847_01973963-c558-4fee-8571-257caa21c8b1,Financials,Commercial Banks,Commercial Banks,121,M0,,356.7995556879996,3366700,gpt-5.2-2025-12-11
+0f329818-5c69-4f81-9dc2-a31415212f86,20260402_062950_0f329818-5c69-4f81-9dc2-a31415212f86,Financials,Investment Banking & Brokerage,Investment Banking & Brokerage,21,M0,,276.1290418289991,622798,gpt-5.2-2025-12-11
+d0546854-e331-4ec6-b1db-ade1e55f106d,20260402_072245_d0546854-e331-4ec6-b1db-ade1e55f106d,Health Care,Health Care Delivery,Health Care Delivery,32,M0,,359.86078490999716,693340,gpt-5.2-2025-12-11
+a92a8494-9b24-4a8d-b43a-7f484319937b,20260402_072318_a92a8494-9b24-4a8d-b43a-7f484319937b,Health Care,Health Care Delivery,Health Care Delivery,55,M0,,445.7084195860007,1787700,gpt-5.2-2025-12-11
+09e9db8c-998b-46b0-b786-4b61f157e65d,20260402_072350_09e9db8c-998b-46b0-b786-4b61f157e65d,Health Care,Medical Equipment & Supplies,Medical Equipment & Supplies,172,M0,,230.8685312020025,2049359,gpt-5.2-2025-12-11
+ea2ee64e-de07-42e1-86ed-196596d84555,20260407_052127_ea2ee64e-de07-42e1-86ed-196596d84555,Food & Beverage,Restaurants,Restaurants,49,M0,,369.3109088320016,2088652,gpt-5.2-2025-12-11
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A0,435.0559201779979,97628,gpt-5.2-2025-12-11
+11fc0e9f-9146-44fc-bb91-f41402325ee0,20260407_052241_11fc0e9f-9146-44fc-bb91-f41402325ee0,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,54,M0,,268.84965001999444,684808,gpt-5.2-2025-12-11
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,20260407_111832_abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M0,,126.7117373330002,109618,gpt-5.2-2025-12-11
+2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,20260407_052444_2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,58,M0,,233.21253527099907,743526,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,20260407_052455_b5ea1eac-abad-4813-b4d6-7819c41f3e99,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M0,,145.67633495799964,315797,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,20260407_052455_b5ea1eac-abad-4813-b4d6-7819c41f3e99,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M0,,152.27271407100125,315979,gpt-5.2-2025-12-11
+fbef90a1-0131-4707-a4cd-39be8c15b96c,20260407_052559_fbef90a1-0131-4707-a4cd-39be8c15b96c,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M0,,359.59733877799954,1384089,gpt-5.2-2025-12-11
+0b36f1a6-d283-4aad-bc37-807347214057,20260407_052635_0b36f1a6-d283-4aad-bc37-807347214057,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M0,,222.8492588959998,1124673,gpt-5.2-2025-12-11
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,20260407_052709_33c8ed39-f506-4444-aff7-6b1f78c0f5cf,Resource Transformation,Chemicals,Chemicals,67,M0,,479.35629093399984,2105936,gpt-5.2-2025-12-11
+1164cec7-2dcd-4a89-b630-14245bcd9e62,20260407_075033_1164cec7-2dcd-4a89-b630-14245bcd9e62,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M0,,169.18480526300482,747037,gpt-5.2-2025-12-11
+08b5581b-befd-4bfd-b226-b24c23a7081e,20260407_075116_08b5581b-befd-4bfd-b226-b24c23a7081e,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M0,,312.155064681996,2573062,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,20260407_120212_33a8702e-b1ec-44c7-9049-dbb1cef33eef,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M0,,236.94631499300158,1275716,gpt-5.2-2025-12-11
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,20260407_120252_093f2d23-5f2f-47b9-9ea3-ff36920ac675,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M0,,234.64745942400623,1187103,gpt-5.2-2025-12-11
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,20260407_124630_3498d583-cb5c-408b-9f1a-edd4cc5fc285,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M0,,236.66815278500144,167906,gpt-5.2-2025-12-11
+1d223dc1-ae3e-4c78-83e0-0a1329e528e0,bmw esg 2024,Transportation,Automobiles,Automobiles,19,M1,A1,125.95309746899989,46628,gpt-5.2-2025-12-11
+897a33de-edbe-45aa-a425-31297df747c4,QAN_2024_Sustainability_Report,Transportation,Airlines,Airlines,92,M1,A1,105.00464360800015,59112,gpt-5.2-2025-12-11
+307280f5-f615-4b1a-ae47-c0f04eb55bf6,maersk-sustainability-report-2023,Transportation,Marine Transportation,Marine Transportation,65,M1,A1,200.75281806299972,230440,gpt-5.2-2025-12-11
+848186d8-7a5e-42ce-b587-698c5e71533f,Apple_Environmental_Progress_Report_2025,Technology & Communications,Hardware,Hardware,126,M1,A1,77.81128709799987,35377,gpt-5.2-2025-12-11
+f25a601b-2967-4668-8345-15d9e7555cab,2025-Microsoft-Environmental-Sustainability-Report-PDF,Technology & Communications,Software & IT Services,Software & IT Services,90,M1,A1,206.2544958530002,94852,gpt-5.2-2025-12-11
+85a058fe-f0c4-492c-a0c0-7a2bbcae74d7,accenture-environmental-metrics-report-2025,Services,Professional & Commercial Services,Professional & Commercial Services,16,M1,A1,112.98314422200019,60008,gpt-5.2-2025-12-11
+0a14ecd9-9f0f-4ff3-80e1-19cca1198a7e,FY2025-Environmental-Performance-Summary,Services,Professional & Commercial Services,Professional & Commercial Services,28,M1,A1,114.15165178200004,75306,gpt-5.2-2025-12-11
+db6ecf05-1269-4e92-9b3b-eb2f2baad9e0,delltechnologies-fy24-esg-report,Technology & Communications,Hardware,Hardware,116,M1,A1,87.57487758700017,51245,gpt-5.2-2025-12-11
+f23f7eb1-1f50-4558-b917-a2eed5198550,2024-sustainability-report-lundin-mining,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,87,M1,A1,407.316382471,202941,gpt-5.2-2025-12-11
+106c05b9-8088-4a05-b281-694c146c91d0,newmont-2024-sustainability-report,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,112,M1,A1,433.36556192100034,207417,gpt-5.2-2025-12-11
+67c29e71-5024-4a1c-9452-d44fba2f6ce0,Allianz-SE-Sustainability-Report-2024-short-version,Financials,Insurance,Insurance,28,M1,A1,169.253995432,72694,gpt-5.2-2025-12-11
+01973963-c558-4fee-8571-257caa21c8b1,DBS_SR2024,Financials,Commercial Banks,Commercial Banks,121,M1,A1,212.41110759799994,122150,gpt-5.2-2025-12-11
+0f329818-5c69-4f81-9dc2-a31415212f86,MCG esg 2024,Financials,Investment Banking & Brokerage,Investment Banking & Brokerage,21,M1,A1,167.14368184500017,77608,gpt-5.2-2025-12-11
+d0546854-e331-4ec6-b1db-ade1e55f106d,Hearing-Australia-FY24-ESG-Sustainability-Report,Health Care,Health Care Delivery,Health Care Delivery,32,M1,A1,270.88261515700015,103914,gpt-5.2-2025-12-11
+a92a8494-9b24-4a8d-b43a-7f484319937b,rhc_2025_impact_report,Health Care,Health Care Delivery,Health Care Delivery,55,M1,A1,293.5226771790003,167576,gpt-5.2-2025-12-11
+09e9db8c-998b-46b0-b786-4b61f157e65d,SHL_Sustainability-Report_2025,Health Care,Medical Equipment & Supplies,Medical Equipment & Supplies,172,M1,A1,128.26591409899993,83038,gpt-5.2-2025-12-11
+ea2ee64e-de07-42e1-86ed-196596d84555,McDonalds_PurposeImpact_ProgressReport_2024_2025,Food & Beverage,Restaurants,Restaurants,49,M1,A1,236.58554816799915,114600,gpt-5.2-2025-12-11
+11fc0e9f-9146-44fc-bb91-f41402325ee0,Starbucks-Fiscal-2024-Global-Impact-Report,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,54,M1,A1,203.50846744299997,82778,gpt-5.2-2025-12-11
+2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,Sustainability_Profile_2024,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,58,M1,A1,162.0109663509993,88053,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A1,94.16037103500094,35448,gpt-5.2-2025-12-11
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A1,207.7652020459991,78597,gpt-5.2-2025-12-11
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A1,117.31818473699968,57709,gpt-5.2-2025-12-11
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,esg-environment-social-governance-basf-ar23,Resource Transformation,Chemicals,Chemicals,67,M1,A1,218.359268831,96264,gpt-5.2-2025-12-11
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A1,101.67465373900086,67168,gpt-5.2-2025-12-11
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A1,158.66084573499938,89647,gpt-5.2-2025-12-11
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A1,108.08130965500095,51382,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A1,160.26305590999982,100554,gpt-5.2-2025-12-11
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A1,153.0669564159998,109148,gpt-5.2-2025-12-11
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A1,174.90453030699973,96795,gpt-5.2-2025-12-11
+1d223dc1-ae3e-4c78-83e0-0a1329e528e0,bmw esg 2024,Transportation,Automobiles,Automobiles,19,M1,A2,120.24960538800042,46621,gpt-5.2-2025-12-11
+897a33de-edbe-45aa-a425-31297df747c4,QAN_2024_Sustainability_Report,Transportation,Airlines,Airlines,92,M1,A2,113.05210760099908,59961,gpt-5.2-2025-12-11
+307280f5-f615-4b1a-ae47-c0f04eb55bf6,maersk-sustainability-report-2023,Transportation,Marine Transportation,Marine Transportation,65,M1,A2,185.22014220299934,229925,gpt-5.2-2025-12-11
+848186d8-7a5e-42ce-b587-698c5e71533f,Apple_Environmental_Progress_Report_2025,Technology & Communications,Hardware,Hardware,126,M1,A2,80.36797831100012,35149,gpt-5.2-2025-12-11
+f25a601b-2967-4668-8345-15d9e7555cab,2025-Microsoft-Environmental-Sustainability-Report-PDF,Technology & Communications,Software & IT Services,Software & IT Services,90,M1,A2,215.4825749169995,95517,gpt-5.2-2025-12-11
+85a058fe-f0c4-492c-a0c0-7a2bbcae74d7,accenture-environmental-metrics-report-2025,Services,Professional & Commercial Services,Professional & Commercial Services,16,M1,A2,115.02000872600001,60285,gpt-5.2-2025-12-11
+db6ecf05-1269-4e92-9b3b-eb2f2baad9e0,delltechnologies-fy24-esg-report,Technology & Communications,Hardware,Hardware,116,M1,A2,86.36656966400005,51911,gpt-5.2-2025-12-11
+0a14ecd9-9f0f-4ff3-80e1-19cca1198a7e,FY2025-Environmental-Performance-Summary,Services,Professional & Commercial Services,Professional & Commercial Services,28,M1,A2,126.8633927109986,74019,gpt-5.2-2025-12-11
+f23f7eb1-1f50-4558-b917-a2eed5198550,2024-sustainability-report-lundin-mining,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,87,M1,A2,481.57445942900085,202521,gpt-5.2-2025-12-11
+106c05b9-8088-4a05-b281-694c146c91d0,newmont-2024-sustainability-report,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,112,M1,A2,491.9247835370006,206642,gpt-5.2-2025-12-11
+67c29e71-5024-4a1c-9452-d44fba2f6ce0,Allianz-SE-Sustainability-Report-2024-short-version,Financials,Insurance,Insurance,28,M1,A2,206.470579906,72213,gpt-5.2-2025-12-11
+01973963-c558-4fee-8571-257caa21c8b1,DBS_SR2024,Financials,Commercial Banks,Commercial Banks,121,M1,A2,242.11439569799995,125846,gpt-5.2-2025-12-11
+0f329818-5c69-4f81-9dc2-a31415212f86,MCG esg 2024,Financials,Investment Banking & Brokerage,Investment Banking & Brokerage,21,M1,A2,220.8516726570001,77750,gpt-5.2-2025-12-11
+d0546854-e331-4ec6-b1db-ade1e55f106d,Hearing-Australia-FY24-ESG-Sustainability-Report,Health Care,Health Care Delivery,Health Care Delivery,32,M1,A2,308.3085878230004,103917,gpt-5.2-2025-12-11
+a92a8494-9b24-4a8d-b43a-7f484319937b,rhc_2025_impact_report,Health Care,Health Care Delivery,Health Care Delivery,55,M1,A2,347.326738621,166913,gpt-5.2-2025-12-11
+09e9db8c-998b-46b0-b786-4b61f157e65d,SHL_Sustainability-Report_2025,Health Care,Medical Equipment & Supplies,Medical Equipment & Supplies,172,M1,A2,160.32580120500006,80471,gpt-5.2-2025-12-11
+ea2ee64e-de07-42e1-86ed-196596d84555,McDonalds_PurposeImpact_ProgressReport_2024_2025,Food & Beverage,Restaurants,Restaurants,49,M1,A2,274.3203624130001,114552,gpt-5.2-2025-12-11
+11fc0e9f-9146-44fc-bb91-f41402325ee0,Starbucks-Fiscal-2024-Global-Impact-Report,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,54,M1,A2,235.92330947899973,82665,gpt-5.2-2025-12-11
+2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,Sustainability_Profile_2024,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,58,M1,A2,194.90298525100116,88427,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A2,118.130602584999,35498,gpt-5.2-2025-12-11
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A2,221.39514557700022,77650,gpt-5.2-2025-12-11
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A2,143.4542741919995,57944,gpt-5.2-2025-12-11
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,esg-environment-social-governance-basf-ar23,Resource Transformation,Chemicals,Chemicals,67,M1,A2,260.19489521299874,95286,gpt-5.2-2025-12-11
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A2,118.59935680200033,67013,gpt-5.2-2025-12-11
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A2,183.75019840800087,89379,gpt-5.2-2025-12-11
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A2,207.73541568700057,96361,gpt-5.2-2025-12-11
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A2,173.50332360299944,106197,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A2,168.7804597459999,99105,gpt-5.2-2025-12-11
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A2,128.49052609199862,49886,gpt-5.2-2025-12-11
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A3,5.840298516000985,0,gpt-5.2-2025-12-11
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A3,3.6653517330000795,0,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A3,3.1286001140001645,0,gpt-5.2-2025-12-11
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A3,2.2882714520001173,0,gpt-5.2-2025-12-11
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A3,2.8849582070001816,0,gpt-5.2-2025-12-11
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A3,2.0671255229999588,0,gpt-5.2-2025-12-11
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,esg-environment-social-governance-basf-ar23,Resource Transformation,Chemicals,Chemicals,67,M1,A3,16.62666471900002,0,gpt-5.2-2025-12-11
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A3,2.6840261560000727,0,gpt-5.2-2025-12-11
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A3,14.400094393000018,0,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A3,2.0892913020002197,0,gpt-5.2-2025-12-11
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A4,4.582116128000052,0,gpt-5.2-2025-12-11
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A4,2.85499248799988,0,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A4,3.030121436999707,0,gpt-5.2-2025-12-11
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A4,3.549899206000191,0,gpt-5.2-2025-12-11
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A4,3.326767178999944,0,gpt-5.2-2025-12-11
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A4,1.867818212000202,0,gpt-5.2-2025-12-11
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,esg-environment-social-governance-basf-ar23,Resource Transformation,Chemicals,Chemicals,67,M1,A4,4.0586209650000455,0,gpt-5.2-2025-12-11
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A4,2.5298761490003017,0,gpt-5.2-2025-12-11
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A4,3.758024538000427,0,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A4,1.954939401000047,0,gpt-5.2-2025-12-11
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A5,190.48402127499958,96298,gpt-5.2-2025-12-11
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A5,151.25543605699932,109229,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A5,137.603574028999,100916,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A5,130.98736811900017,100709,gpt-5.2-2025-12-11
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A5,105.00680743699922,51657,gpt-5.2-2025-12-11
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A5,151.10121886399975,88793,gpt-5.2-2025-12-11
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A5,103.02285771900097,65865,gpt-5.2-2025-12-11
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,esg-environment-social-governance-basf-ar23,Resource Transformation,Chemicals,Chemicals,67,M1,A5,210.540633401999,95065,gpt-5.2-2025-12-11
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A5,119.38071484200009,57532,gpt-5.2-2025-12-11
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A5,184.48903349600005,77337,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A5,98.47391896500085,34850,gpt-5.2-2025-12-11
+2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,Sustainability_Profile_2024,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,58,M1,A5,155.2058999059991,87111,gpt-5.2-2025-12-11
+11fc0e9f-9146-44fc-bb91-f41402325ee0,Starbucks-Fiscal-2024-Global-Impact-Report,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,54,M1,A5,199.65561235600035,82640,gpt-5.2-2025-12-11
+ea2ee64e-de07-42e1-86ed-196596d84555,McDonalds_PurposeImpact_ProgressReport_2024_2025,Food & Beverage,Restaurants,Restaurants,49,M1,A5,239.6506871239999,112546,gpt-5.2-2025-12-11
+09e9db8c-998b-46b0-b786-4b61f157e65d,SHL_Sustainability-Report_2025,Health Care,Medical Equipment & Supplies,Medical Equipment & Supplies,172,M1,A5,139.33469291999972,77653,gpt-5.2-2025-12-11
+a92a8494-9b24-4a8d-b43a-7f484319937b,rhc_2025_impact_report,Health Care,Health Care Delivery,Health Care Delivery,55,M1,A5,304.15894245100026,166006,gpt-5.2-2025-12-11
+d0546854-e331-4ec6-b1db-ade1e55f106d,Hearing-Australia-FY24-ESG-Sustainability-Report,Health Care,Health Care Delivery,Health Care Delivery,32,M1,A5,254.32646399299847,102758,gpt-5.2-2025-12-11
+0f329818-5c69-4f81-9dc2-a31415212f86,MCG esg 2024,Financials,Investment Banking & Brokerage,Investment Banking & Brokerage,21,M1,A5,176.43711157299913,77282,gpt-5.2-2025-12-11
+01973963-c558-4fee-8571-257caa21c8b1,DBS_SR2024,Financials,Commercial Banks,Commercial Banks,121,M1,A5,207.0339918619993,123562,gpt-5.2-2025-12-11
+67c29e71-5024-4a1c-9452-d44fba2f6ce0,Allianz-SE-Sustainability-Report-2024-short-version,Financials,Insurance,Insurance,28,M1,A5,167.45341954200012,71498,gpt-5.2-2025-12-11
+106c05b9-8088-4a05-b281-694c146c91d0,newmont-2024-sustainability-report,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,112,M1,A5,412.7984341320007,206818,gpt-5.2-2025-12-11
+f23f7eb1-1f50-4558-b917-a2eed5198550,2024-sustainability-report-lundin-mining,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,87,M1,A5,419.35294145399894,200329,gpt-5.2-2025-12-11
+db6ecf05-1269-4e92-9b3b-eb2f2baad9e0,delltechnologies-fy24-esg-report,Technology & Communications,Hardware,Hardware,116,M1,A5,80.90997130899996,52448,gpt-5.2-2025-12-11
+307280f5-f615-4b1a-ae47-c0f04eb55bf6,maersk-sustainability-report-2023,Transportation,Marine Transportation,Marine Transportation,65,M1,A5,165.49114555899905,229804,gpt-5.2-2025-12-11
+0a14ecd9-9f0f-4ff3-80e1-19cca1198a7e,FY2025-Environmental-Performance-Summary,Services,Professional & Commercial Services,Professional & Commercial Services,28,M1,A5,111.740357794999,72609,gpt-5.2-2025-12-11
+85a058fe-f0c4-492c-a0c0-7a2bbcae74d7,accenture-environmental-metrics-report-2025,Services,Professional & Commercial Services,Professional & Commercial Services,16,M1,A5,101.0203425969994,59860,gpt-5.2-2025-12-11
+f25a601b-2967-4668-8345-15d9e7555cab,2025-Microsoft-Environmental-Sustainability-Report-PDF,Technology & Communications,Software & IT Services,Software & IT Services,90,M1,A5,192.35048742800063,93695,gpt-5.2-2025-12-11
+848186d8-7a5e-42ce-b587-698c5e71533f,Apple_Environmental_Progress_Report_2025,Technology & Communications,Hardware,Hardware,126,M1,A5,80.5094526569992,35321,gpt-5.2-2025-12-11
+897a33de-edbe-45aa-a425-31297df747c4,QAN_2024_Sustainability_Report,Transportation,Airlines,Airlines,92,M1,A5,102.29014085100061,57447,gpt-5.2-2025-12-11
+1d223dc1-ae3e-4c78-83e0-0a1329e528e0,bmw esg 2024,Transportation,Automobiles,Automobiles,19,M1,A5,107.09605648300021,46328,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A2,307.154711121,98814,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A0,209.56267655200008,99538,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A1,203.10838475599985,99729,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A3,7.754997855000056,0,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A4,9.274292045000038,0,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A0,202.120887478,98674,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A5,196.12370442600013,99612,gpt-5.2-2025-12-11
+be1ce70f-1190-4da6-9d5d-a3723294a01a,20260415_040307_be1ce70f-1190-4da6-9d5d-a3723294a01a,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M0,,292.8852957899999,1640140,gpt-5.2-2025-12-11
+1d223dc1-ae3e-4c78-83e0-0a1329e528e0,bmw esg 2024,Transportation,Automobiles,Automobiles,19,M1,A0,174.3920500109998,58382,claude-opus-4-6
+897a33de-edbe-45aa-a425-31297df747c4,QAN_2024_Sustainability_Report,Transportation,Airlines,Airlines,92,M1,A0,131.34682449200045,70152,claude-opus-4-6
+307280f5-f615-4b1a-ae47-c0f04eb55bf6,maersk-sustainability-report-2023,Transportation,Marine Transportation,Marine Transportation,65,M1,A0,242.62726456699966,265492,claude-opus-4-6
+848186d8-7a5e-42ce-b587-698c5e71533f,Apple_Environmental_Progress_Report_2025,Technology & Communications,Hardware,Hardware,126,M1,A0,95.37536436499977,42748,claude-opus-4-6
+f25a601b-2967-4668-8345-15d9e7555cab,2025-Microsoft-Environmental-Sustainability-Report-PDF,Technology & Communications,Software & IT Services,Software & IT Services,90,M1,A0,249.78023365099943,114147,claude-opus-4-6
+85a058fe-f0c4-492c-a0c0-7a2bbcae74d7,accenture-environmental-metrics-report-2025,Services,Professional & Commercial Services,Professional & Commercial Services,16,M1,A0,135.71105201199953,72349,claude-opus-4-6
+0a14ecd9-9f0f-4ff3-80e1-19cca1198a7e,FY2025-Environmental-Performance-Summary,Services,Professional & Commercial Services,Professional & Commercial Services,28,M1,A0,139.41951883300044,89008,claude-opus-4-6
+db6ecf05-1269-4e92-9b3b-eb2f2baad9e0,delltechnologies-fy24-esg-report,Technology & Communications,Hardware,Hardware,116,M1,A0,114.77918393899927,63040,claude-opus-4-6
+f23f7eb1-1f50-4558-b917-a2eed5198550,2024-sustainability-report-lundin-mining,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,87,M1,A0,544.6967841589994,243740,claude-opus-4-6
+106c05b9-8088-4a05-b281-694c146c91d0,newmont-2024-sustainability-report,Extractives & Minerals Processing,Metals & Mining,Metals & Mining,112,M1,A0,544.0162705389994,250865,claude-opus-4-6
+67c29e71-5024-4a1c-9452-d44fba2f6ce0,Allianz-SE-Sustainability-Report-2024-short-version,Financials,Insurance,Insurance,28,M1,A0,200.66648883999915,86285,claude-opus-4-6
+0f329818-5c69-4f81-9dc2-a31415212f86,MCG esg 2024,Financials,Investment Banking & Brokerage,Investment Banking & Brokerage,21,M1,A0,206.9346998280016,94303,claude-opus-4-6
+d0546854-e331-4ec6-b1db-ade1e55f106d,Hearing-Australia-FY24-ESG-Sustainability-Report,Health Care,Health Care Delivery,Health Care Delivery,32,M1,A0,301.86537043499993,127517,claude-opus-4-6
+a92a8494-9b24-4a8d-b43a-7f484319937b,rhc_2025_impact_report,Health Care,Health Care Delivery,Health Care Delivery,55,M1,A0,374.9804346060009,203305,claude-opus-4-6
+09e9db8c-998b-46b0-b786-4b61f157e65d,SHL_Sustainability-Report_2025,Health Care,Medical Equipment & Supplies,Medical Equipment & Supplies,172,M1,A0,174.89573322100114,92884,claude-opus-4-6
+ea2ee64e-de07-42e1-86ed-196596d84555,McDonalds_PurposeImpact_ProgressReport_2024_2025,Food & Beverage,Restaurants,Restaurants,49,M1,A0,290.31244024899934,137842,claude-opus-4-6
+11fc0e9f-9146-44fc-bb91-f41402325ee0,Starbucks-Fiscal-2024-Global-Impact-Report,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,54,M1,A0,252.2103405229991,101848,claude-opus-4-6
+2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,Sustainability_Profile_2024,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,58,M1,A0,183.33532577500046,104514,claude-opus-4-6
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A0,111.5875004210011,43309,claude-opus-4-6
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A0,228.58003013899906,94286,claude-opus-4-6
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A0,145.7714859940006,70532,claude-opus-4-6
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A0,137.1354308280006,78662,claude-opus-4-6
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A0,184.63369057899945,105305,claude-opus-4-6
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A0,128.04760462800004,62038,claude-opus-4-6
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A0,181.9627367690009,116551,claude-opus-4-6
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A0,181.16809784199904,125110,claude-opus-4-6
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A0,203.6373288609975,111546,claude-opus-4-6
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A0,273.6685569750007,118163,claude-opus-4-6
+01973963-c558-4fee-8571-257caa21c8b1,DBS_SR2024,Financials,Commercial Banks,Commercial Banks,121,M1,A0,198.29516569500083,122075,claude-opus-4-6
+d0546854-e331-4ec6-b1db-ade1e55f106d,Hearing-Australia-FY24-ESG-Sustainability-Report,Health Care,Health Care Delivery,Health Care Delivery,32,M1,A0,266.6437062269997,103102,claude-opus-4-6
+a92a8494-9b24-4a8d-b43a-7f484319937b,rhc_2025_impact_report,Health Care,Health Care Delivery,Health Care Delivery,55,M1,A0,284.27275542500047,162132,claude-opus-4-6
+09e9db8c-998b-46b0-b786-4b61f157e65d,SHL_Sustainability-Report_2025,Health Care,Medical Equipment & Supplies,Medical Equipment & Supplies,172,M1,A0,123.64907284499986,77075,claude-opus-4-6
+ea2ee64e-de07-42e1-86ed-196596d84555,McDonalds_PurposeImpact_ProgressReport_2024_2025,Food & Beverage,Restaurants,Restaurants,49,M1,A0,226.7597655059999,114344,claude-opus-4-6
+11fc0e9f-9146-44fc-bb91-f41402325ee0,Starbucks-Fiscal-2024-Global-Impact-Report,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,54,M1,A0,187.69492200499917,82136,claude-opus-4-6
+2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,Sustainability_Profile_2024,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,58,M1,A0,155.07146572500005,88721,claude-opus-4-6
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A0,92.7184276730004,35311,claude-opus-4-6
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A0,186.13642193800024,78291,claude-opus-4-6
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A0,117.66883378500006,58013,claude-opus-4-6
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,esg-environment-social-governance-basf-ar23,Resource Transformation,Chemicals,Chemicals,67,M1,A0,211.1197585509999,96073,claude-opus-4-6
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A0,94.13947686699976,66938,claude-opus-4-6
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A0,145.42232682599933,89363,claude-opus-4-6
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A0,100.81987380999999,51981,claude-opus-4-6
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A0,134.52978011100095,101278,claude-opus-4-6
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A0,136.79571112600024,108492,claude-opus-4-6
+3498d583-cb5c-408b-9f1a-edd4cc5fc285,ireland-gender-pay-gap-report-2025,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,9,M1,A0,168.74911222900118,88450,claude-opus-4-6
+be1ce70f-1190-4da6-9d5d-a3723294a01a,bp-sustainability-report-2024,Extractives & Minerals Processing,Oil & Gas – Refining & Marketing,Oil & Gas – Refining & Marketing,53,M1,A0,217.85139478300152,98491,claude-opus-4-6
+0f329818-5c69-4f81-9dc2-a31415212f86,MCG esg 2024,Financials,Investment Banking & Brokerage,Investment Banking & Brokerage,21,M1,A0,189.0125002929999,78321,claude-opus-4-6
+01973963-c558-4fee-8571-257caa21c8b1,DBS_SR2024,Financials,Commercial Banks,Commercial Banks,121,M1,A0,207.13783547600002,120616,gpt-5.2-2025-12-11
+08b5581b-befd-4bfd-b226-b24c23a7081e,APA-2024SustainabilityReport,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,86,M1,A0,157.02468931400006,89362,gpt-5.2-2025-12-11
+093f2d23-5f2f-47b9-9ea3-ff36920ac675,Woolworths Group 2024 Sustainability Report,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,40,M1,A0,144.06598176599994,106273,gpt-5.2-2025-12-11
+09e9db8c-998b-46b0-b786-4b61f157e65d,SHL_Sustainability-Report_2025,Health Care,Medical Equipment & Supplies,Medical Equipment & Supplies,172,M1,A0,141.31320344000005,83467,gpt-5.2-2025-12-11
+0b36f1a6-d283-4aad-bc37-807347214057,2025-ALS-Sustainability-Report,Resource Transformation,Industrial Machinery & Goods,Industrial Machinery & Goods,136,M1,A0,130.729631273,58400,gpt-5.2-2025-12-11
+1164cec7-2dcd-4a89-b630-14245bcd9e62,NextEra Energy Sustainability Report 2024,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,72,M1,A0,100.2071277550001,67360,gpt-5.2-2025-12-11
+11fc0e9f-9146-44fc-bb91-f41402325ee0,Starbucks-Fiscal-2024-Global-Impact-Report,Food & Beverage,Non-Alcoholic Beverages,Non-Alcoholic Beverages,54,M1,A0,201.81423143300003,83319,gpt-5.2-2025-12-11
+33a8702e-b1ec-44c7-9049-dbb1cef33eef,Sustainability_Report_2024,Consumer Goods,Multiline and Specialty Retailers & Distributors,Multiline and Specialty Retailers & Distributors,68,M1,A0,154.13958492999973,100010,gpt-5.2-2025-12-11
+2be9d6e7-65c4-4bf0-a930-9dabb1957ba0,Sustainability_Profile_2024,Infrastructure,Gas Utilities & Distributors,Gas Utilities & Distributors,58,M1,A0,165.86858253600076,88261,gpt-5.2-2025-12-11
+33c8ed39-f506-4444-aff7-6b1f78c0f5cf,esg-environment-social-governance-basf-ar23,Resource Transformation,Chemicals,Chemicals,67,M1,A0,233.7421307980003,96272,gpt-5.2-2025-12-11
+a92a8494-9b24-4a8d-b43a-7f484319937b,rhc_2025_impact_report,Health Care,Health Care Delivery,Health Care Delivery,55,M1,A0,304.9007098129987,167580,gpt-5.2-2025-12-11
+abfbf9ad-f8c0-4ea1-9cab-3ba8c10691ad,P&G esg 2024,Consumer Goods,Household & Personal Products,Household & Personal Products,47,M1,A0,112.20609805799904,52251,gpt-5.2-2025-12-11
+b5ea1eac-abad-4813-b4d6-7819c41f3e99,esg-focus-for-investors-february-2026,Renewable Resources & Alternative Energy,Wind Technology & Project Developers,Wind Technology & Project Developers,83,M1,A0,102.77356240500012,35458,gpt-5.2-2025-12-11
+d0546854-e331-4ec6-b1db-ade1e55f106d,Hearing-Australia-FY24-ESG-Sustainability-Report,Health Care,Health Care Delivery,Health Care Delivery,32,M1,A0,279.4032225289993,103608,gpt-5.2-2025-12-11
+ea2ee64e-de07-42e1-86ed-196596d84555,McDonalds_PurposeImpact_ProgressReport_2024_2025,Food & Beverage,Restaurants,Restaurants,49,M1,A0,254.67637124599787,113427,gpt-5.2-2025-12-11
+fbef90a1-0131-4707-a4cd-39be8c15b96c,Sustainability Report 2023,Renewable Resources & Alternative Energy,Solar Technology & Project Developers,Solar Technology & Project Developers,74,M1,A0,203.06268898399867,77530,gpt-5.2-2025-12-11
